@@ -3,6 +3,8 @@
 
 This project is a machine learning-powered tool for segmenting e-commerce customers using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering. It features an interactive Streamlit dashboard for exploring customer segments, visualizing data, and predicting the segment of new customers.
 
+Streamlit Website: https://e-commerce-customer-segmentation-tool.streamlit.app/
+
 ---
 
 ## 🚀 Key Features
@@ -50,7 +52,7 @@ This project is a machine learning-powered tool for segmenting e-commerce custom
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/E-commerce_Customer_Segmentation_Tool.git
+   git clone https://github.com/YashV77/E-commerce_Customer_Segmentation_Tool.git
    cd E-commerce_Customer_Segmentation_Tool
    ```
 
